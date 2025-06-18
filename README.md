@@ -5,7 +5,7 @@
 🌱 Currently, I’m expanding my knowledge in:
 - 📊 Data Science & Analytics
 - 🧠 Machine Learning Basics
-- 🌐 Web Development (React.js, Node.js)
+- 🌐 Web Development (React.js)
 - 📁 Databases (MongoDB, MySQL, Oracle)
 - 🐍 Python for Data
 
