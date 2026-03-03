@@ -17,7 +17,7 @@ My work centers around data modeling, KPI tracking, performance analysis.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 **Analytics & BI**
 - Microsoft Excel (Advanced Formulas, Pivot Tables, Power Query)
