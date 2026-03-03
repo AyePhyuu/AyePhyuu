@@ -1,9 +1,9 @@
 # Hi, I'm Aye Phyu (Avery)
 
-## Data Analyst | Business Intelligence | Power BI & Excel
+## Data Analyst | Marketing Analyst | Power BI & Excel
 
 I am a data analyst focused on transforming raw data into meaningful business insights. 
-My work centers around data modeling, KPI tracking, performance analysis.
+My work centers around data transformation, KPI tracking, performance analysis, campaign analysis.
 
 ---
 
