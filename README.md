@@ -9,21 +9,11 @@ My work centers around data transformation, KPI tracking, performance analysis, 
 
 ##  Professional Focus
 
-- Data Modeling & DAX (Power BI)
 - Performance Reporting & KPI Monitoring
 - Marketing & Campaign Analytics
-- Data Visualization & Storytelling
 - Data Cleaning & Transformation
 
 ---
-
-## Tools & Technologies
-
-**Analytics & BI**
-- Microsoft Excel (Advanced Formulas, Pivot Tables, Power Query)
-- Power BI (Data Modeling, DAX, Dashboard Design)
-
-
 
 ## Areas of Growth
 
